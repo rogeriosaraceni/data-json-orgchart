@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "Site CO2 Purchased (kg/khl)",
+        "url": "./popups/popupL1.html"
+    },
+    {
+        "id": 2,
+        "pid": 1,
+        "name": "Brewing CO2 Usage (kg/hl)",
+        "url": "./popups/popupL2.html"
+    },
+    {
+        "id": 3,
+        "pid": 2,
+        "name": "Cold Block CO2 Usage(kg/hl)",
+        "url": "./popups/popupL3.html"
+    },
+    {
+        "id": 4,
+        "pid": 2,
+        "name": "Filtration CO2 Usage (kg/hl)",
+        "url": "./popups/popupL3.html"
+    },
+    {
+        "id": 5,
+        "pid": 3,
+        "name": "Cold Block Beer Tank",
+        "url": "./popups/popupL4_equipament.html"
+    },
+    {
+        "id": 6,
+        "pid": 3,
+        "name": "Cold Block Auxiliaries",
+        "url": "./popups/popupL4_equipament.html"
+    },
+    {
+        "id": 7,
+        "pid": 4,
+        "name": "Deaerated Water Plant",
+        "url": "./popups/popupL4_equipament.html"
+    },
+    {
+        "id": 8,
+        "pid": 4,
+        "name": "Beer Filter",
+        "url": "./popups/popupL4_equipament.html"
+    },
+    {
+        "id": 9,
+        "pid": 4,
+        "name": "Bright Beer Tank (BBT)",
+        "url": "./popups/popupL4_equipament.html"
+    },
+    {
+        "id": 10,
+        "pid": 5,
+        "name": "Cold Block Beer Tank CO2 Usage \n(kg/hl)",
+        "url": "./popups/popupL10.html"
+    },
+    {
+        "id": 11,
+        "pid": 6,
+        "name": "Cold Block Auxiliaries CO2 Usage (kg/hl)",
+        "url": "./popups/popupL11.html"
+    },
+    {
+        "id": 12,
+        "pid": 7,
+        "name": "Deaerated Water Plant Efficiency (kg/hl)",
+        "url": "./popups/popupL4_indicator.html"
+    },
+    {
+        "id": 13,
+        "pid": 8,
+        "name": "Beer Filter CO2 Usage (kg/hl)",
+        "url": "./popups/popupL4_indicator.html"
+    },
+    {
+        "id": 14,
+        "pid": 9,
+        "name": "Bright Beer Tank (BBT) CO2 Usage (kg/hl)",
+        "url": "./popups/popupL4_indicator.html"
+    },
+    {
+        "id": 15,
+        "pid": 10,
+        "name": "Fermentation Vessel (FV)",
+        "url": "./popups/popupL5.html",
+        "parameter": "./popups/tabela.html"
+    },
+    {
+        "id": 16,
+        "pid": 10,
+        "name": "Maturation Vessel (MV)",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 17,
+        "pid": 10,
+        "name": "Stabilization Vessel (SV)",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 18,
+        "pid": 10,
+        "name": "Beer Tanker",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 19,
+        "pid": 10,
+        "name": "Cold Block CO2 Balancing System (COE)",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 20,
+        "pid": 11,
+        "name": "Centrifuge",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 21,
+        "pid": 12,
+        "name": "Deaerated Water Column",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 22,
+        "pid": 12,
+        "name": "Deaerated Water Tank",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 23,
+        "pid": 13,
+        "name": "Filtration Beer Tank",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 24,
+        "pid": 13,
+        "name": "Dosage Unit",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 25,
+        "pid": 13,
+        "name": "Beer Carbonator",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 26,
+        "pid": 14,
+        "name": "Bright Beer Tank (BBT)",
+        "url": "./popups/popupL5.html"
+    },
+    {
+        "id": 27,
+        "pid": 14,
+        "name": "BBT CO2 Balancing System (COE)",
+        "url": "./popups/popupL5.html"
+    }
+]
